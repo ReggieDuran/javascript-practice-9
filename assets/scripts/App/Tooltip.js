@@ -1,4 +1,4 @@
-import Cmp, {d oSomething } from "./Component";{ doSomething } from './Component.js';
+import Cmp, {doSomething } from './Component.js';
 
 class Tooltip extends Cmp {
     constructor(closeNotifierFunction, text, hostElementId) {
