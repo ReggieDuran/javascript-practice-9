@@ -1,0 +1,1 @@
+(self.webpackChunkjavascript_practice_9=self.webpackChunkjavascript_practice_9||[]).push([[242],{242:()=>{}}]);
