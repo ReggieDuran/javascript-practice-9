@@ -9,9 +9,9 @@ const button = document.querySelector('button');
 //     console.log(event);
 // };
 
-const anotherButtonClickHandler = () => {
-    console.log('This was clicked!');
-}
+// const anotherButtonClickHandler = () => {
+//     console.log('This was clicked!');
+// }
 
 // button.onclick = buttonClickHandler;
 // button.onclick = anotherButtonClickHandler;
@@ -53,7 +53,7 @@ button.addEventListener('click', event => {
     console.log(this);
 });
 
-const listItems = document.querySelectorAll('li');
+// const listItems = document.querySelectorAll('li');
 const list = document.querySelector('ul');
 
 // listItems.forEach(listItem => {
